@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mahfux090
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ... CSS,JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ..Artificial intelligence
+- 🌱 I’m currently learning ...  Java SCript
+- 💞️ I’m collaborate on ... many  Local and Premium Brands
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... \ai
+- ⚡ Fun fact: ... I am the Noob
 
 <!---
 mahfux090/mahfux090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
